@@ -8,8 +8,6 @@ const Movies = () => {
 	const [moviesData, setMoviesData] = useState([]);
 	const [isLoading, setIsLoading] = useState(true);
 
-	// console.log(moviesData);
-
 	// Fetch All Movies data using AllMovies API
 	const fetchMoviesData = async () => {
 		try {
