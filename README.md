@@ -1,71 +1,70 @@
-# Getting Started with Create React App
+# React + Vite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This template sets up React with Vite, including Hot Module Replacement (HMR) and some ESLint rules.
 
-## Available Scripts
+## Plugins
 
-In the project directory, you can run:
+| Plugin | Description | Link |
+|--------|-------------|------|
+| @vitejs/plugin-react | Uses Babel for Fast Refresh | [Plugin React](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) |
+| @vitejs/plugin-react-swc | Uses SWC for Fast Refresh | [Plugin React SWC](https://github.com/vitejs/vite-plugin-react-swc) |
 
-### `npm start`
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## <i class="uil uil-eye"></i> Project Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This Movie Rating and Queue App offers:
 
-### `npm test`
+| Feature | Description |
+|---------|-------------|
+| **Movie Ratings** | Rate movies from 0 to 5 stars. |
+| **Queue Management** | Add movies to your watch queue. |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## <i class="uil uil-file-medical-alt"></i> Features
 
-### `npm run build`
+| Feature | Description |
+|---------|-------------|
+| **Star-based movie ratings** | Rate movies using a straightforward star-based system. |
+| **Queue management** | Organize your movie choices with the "Add to Queue" feature. |
+| **Vast movie library** | Explore a wide variety of movie titles. |
+| **User-friendly design** | Easy navigation for a delightful movie rating and queue experience. |
+| **High-quality visuals** | Beautifully presented movie cards with high-quality posters and smooth animations. |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## <i class="uil uil-box"></i> Dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Dependency | Description |
+|------------|-------------|
+| **Tailwind CSS** | Utility-first CSS framework for styling. |
+| **ReduxJS** | State management for JavaScript apps. |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## <i class="uil uil-bullseye"></i> Purpose
 
-### `npm run eject`
+| Objective | Description |
+|-----------|-------------|
+| **Rate and share opinions** | Users can rate movies and share their opinions. |
+| **Manage personal movie queue** | Users can manage a list of movies they want to watch. |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## <i class="uil uil-react"></i> Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To create a new project:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm create vite@latest my-project -- --template react
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## <i class="uil uil-terminal"></i> Scripts
 
-## Learn More
+| Script | Description |
+|--------|-------------|
+| `npm run dev` | Runs the app in development mode at [http://localhost:5173](http://localhost:5173). |
+| `npm test` | Launches the test runner. |
+| `npm run build` | Builds the app for production. |
+| `npm run eject` | Removes the single build dependency and copies configuration files. |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## <i class="uil uil-phone"></i> Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+For questions, contact: [id.vikaskashyap@gmail.com](mailto:id.vikaskashyap@gmail.com)
 
-### Code Splitting
+## <i class="uil uil-copyright"></i> Copyright
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# movie_rating_app
+I hope this helps!
