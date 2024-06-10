@@ -1,6 +1,5 @@
 import React from "react";
 import { Link, NavLink, useNavigate } from "react-router-dom";
-// import logo from "../assets/images/icons8-movie-projector-64.png";
 import logo from "../assets/images/MovieImg.jpg";
 
 function Header() {
