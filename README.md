@@ -63,8 +63,4 @@ npm create vite@latest my-project -- --template react
 
 ## <i class="uil uil-phone"></i> Contact
 
-For questions, contact: [id.vikaskashyap@gmail.com](mailto:id.vikaskashyap@gmail.com)
-
-## <i class="uil uil-copyright"></i> Copyright
-
 I hope this helps!
