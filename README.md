@@ -61,6 +61,7 @@ npm create vite@latest my-project -- --template react
 | `npm run build` | Builds the app for production. |
 | `npm run eject` | Removes the single build dependency and copies configuration files. |
 
-## <i class="uil uil-phone"></i> Contact
+## <i class="uil uil-phone"></i> Deployment Link: 
+https://movie-rating-app-gold.vercel.app/
 
 I hope this helps!
