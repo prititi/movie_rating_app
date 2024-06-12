@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Movies from "./pages/Movies";
+import Movies from "./ParentComponent/Movies";
 import Header from "./components/Header";
-import MyQueue from "./pages/MyQueue";
-import AllMovies from "./pages/AllMovies";
+import MyQueue from "./ParentComponent/MyQueue";
+import AllMovies from "./ParentComponent/AllMovies";
 
 const App = () => {
   return (
